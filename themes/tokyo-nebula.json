@@ -276,6 +276,279 @@
       }
     },
     {
+      "name": "Tokyo Nebula Andromeda Frosted",
+      "appearance": "dark",
+      "style": {
+        "background": "#15161fcc",
+        "foreground": "#787c99",
+        "border": "#0a0c12",
+        "border.variant": "#0a0c12",
+        "border.focused": "#a78bfa66",
+        "border.selected": "#a78bfa25",
+        "border.disabled": "#545c7e",
+        "elevated_surface.background": "#16161e",
+        "surface.background": "#11121acc",
+        "element.background": "#a78bfa1a",
+        "element.hover": "#a78bfa18",
+        "element.active": "#a78bfa25",
+        "element.selected": "#a78bfa1a",
+        "element.disabled": "#545c7e",
+        "drop_target.background": "#1e202e",
+        "ghost_element.hover": "#a78bfa18",
+        "ghost_element.active": "#a78bfa25",
+        "ghost_element.selected": "#a78bfa1a",
+        "ghost_element.disabled": "#545c7e",
+        "text": "#a9b1d6",
+        "text.muted": "#787c99",
+        "text.placeholder": "#787c998a",
+        "text.disabled": "#545c7e",
+        "text.accent": "#a78bfa",
+        "icon": "#787c99",
+        "icon.muted": "#515670",
+        "icon.disabled": "#545c7e",
+        "icon.placeholder": "#787c998a",
+        "icon.accent": "#a78bfa",
+        "status_bar.background": "#11121acc",
+        "title_bar.background": "#11121acc",
+        "title_bar.inactive_background": "#11121acc",
+        "toolbar.background": "#11121acc",
+        "tab_bar.background": "#11121acc",
+        "tab.active_background": "#15161ff2",
+        "tab.inactive_background": "#11121acc",
+        "search.match_background": "#a78bfa33",
+        "search.active_match_background": "#a78bfa66",
+        "panel.background": "#11121acc",
+        "panel.focused_border": "#a78bfa66",
+        "pane.focused_border": "#a78bfa66",
+        "pane_group.border": "#0a0c12",
+        "scrollbar.thumb.background": "#868bc415",
+        "scrollbar.thumb.hover_background": "#868bc410",
+        "scrollbar.track.background": "#15161ff2",
+        "editor.foreground": "#a9b1d6",
+        "editor.background": "#15161ff2",
+        "editor.gutter.background": "#15161ff2",
+        "editor.subheader.background": "#15161ff2",
+        "editor.active_line.background": "#1e202e",
+        "editor.highlighted_line.background": "#515c7e20",
+        "editor.line_number": "#363b54",
+        "editor.active_line_number": "#787c99",
+        "editor.hover_line_number": "#787c99",
+        "editor.invisible": "#363b54",
+        "editor.document_highlight.read_background": "#515c7e44",
+        "editor.document_highlight.write_background": "#515c7e55",
+        "terminal.background": "#16161ef2",
+        "terminal.foreground": "#787c99",
+        "terminal.bright_foreground": "#787c99",
+        "terminal.dim_foreground": "#515670",
+        "terminal.ansi.black": "#0a0c14",
+        "terminal.ansi.red": "#ff6188",
+        "terminal.ansi.green": "#7ce38b",
+        "terminal.ansi.yellow": "#ffd866",
+        "terminal.ansi.blue": "#7aa2f7",
+        "terminal.ansi.magenta": "#a78bfa",
+        "terminal.ansi.cyan": "#00d4ff",
+        "terminal.ansi.white": "#c0caf5",
+        "terminal.ansi.bright_black": "#3b4261",
+        "terminal.ansi.bright_red": "#ff85a1",
+        "terminal.ansi.bright_green": "#9eff9b",
+        "terminal.ansi.bright_yellow": "#ffe98a",
+        "terminal.ansi.bright_blue": "#a4c0ff",
+        "terminal.ansi.bright_magenta": "#c4a8ff",
+        "terminal.ansi.bright_cyan": "#5ff0ff",
+        "terminal.ansi.bright_white": "#ffffff",
+        "terminal.ansi.dim_black": "#3b4261",
+        "terminal.ansi.dim_red": "#ff6188",
+        "terminal.ansi.dim_green": "#7ce38b",
+        "terminal.ansi.dim_yellow": "#ffd866",
+        "terminal.ansi.dim_blue": "#7aa2f7",
+        "terminal.ansi.dim_magenta": "#a78bfa",
+        "terminal.ansi.dim_cyan": "#00d4ff",
+        "terminal.ansi.dim_white": "#ffffff",
+        "created": "#7ce38b",
+        "modified": "#7aa2f7",
+        "deleted": "#ff6188",
+        "conflict": "#ffd866",
+        "conflict.background": "#ffd866",
+        "conflict.border": "#ffd866",
+        "created.background": "#7ce38b",
+        "created.border": "#7ce38b",
+        "modified.background": "#7aa2f7",
+        "modified.border": "#7aa2f7",
+        "deleted.background": "#ff6188",
+        "deleted.border": "#ff6188",
+        "success": "#00d4ff",
+        "success.background": "#00d4ff",
+        "success.border": "#00d4ff",
+        "warning": "#ffd866",
+        "warning.background": "#ffd866",
+        "warning.border": "#ffd866",
+        "error": "#ff6188",
+        "error.background": "#ff6188",
+        "error.border": "#ff6188",
+        "info": "#00d4ff",
+        "info.background": "#00d4ff",
+        "info.border": "#00d4ff",
+        "hint": "#7ce38b",
+        "hint.background": "#7ce38b",
+        "hint.border": "#7ce38b",
+        "predictive": "#646e9c",
+        "predictive.background": "#646e9c",
+        "predictive.border": "#646e9c",
+        "hidden": "#515670",
+        "hidden.background": "#515670",
+        "hidden.border": "#515670",
+        "ignored": "#5a5d8a",
+        "ignored.background": "#5a5d8a",
+        "ignored.border": "#5a5d8a",
+        "renamed": "#a78bfa",
+        "renamed.background": "#a78bfa",
+        "renamed.border": "#a78bfa",
+        "unreachable": "#515670",
+        "unreachable.background": "#515670",
+        "unreachable.border": "#515670",
+        "version_control.added": "#7ce38b",
+        "version_control.modified": "#7aa2f7",
+        "version_control.deleted": "#ff6188",
+        "version_control.word_added": "#41a6b520",
+        "version_control.word_deleted": "#db4b4b22",
+        "version_control.conflict_marker.ours": "#41a6b525",
+        "version_control.conflict_marker.theirs": "#3d59a1aa",
+        "link_text.hover": "#c4a8ff",
+        "players": [
+          {
+            "cursor": "#a78bfacc",
+            "selection": "#a78bfacc",
+            "background": "#a78bfacc"
+          },
+          {
+            "cursor": "#a78bfa",
+            "selection": "#a78bfa",
+            "background": "#a78bfa"
+          },
+          {
+            "cursor": "#7aa2f7",
+            "selection": "#7aa2f7",
+            "background": "#7aa2f7"
+          },
+          {
+            "cursor": "#00d4ff",
+            "selection": "#00d4ff",
+            "background": "#00d4ff"
+          },
+          {
+            "cursor": "#7ce38b",
+            "selection": "#7ce38b",
+            "background": "#7ce38b"
+          },
+          {
+            "cursor": "#ffd866",
+            "selection": "#ffd866",
+            "background": "#ffd866"
+          },
+          {
+            "cursor": "#ff6188",
+            "selection": "#ff6188",
+            "background": "#ff6188"
+          },
+          {
+            "cursor": "#ffd866",
+            "selection": "#ffd866",
+            "background": "#ffd866"
+          }
+        ],
+        "accents": [
+          "#a78bfa",
+          "#7aa2f7",
+          "#00d4ff",
+          "#7ce38b",
+          "#ffd866"
+        ],
+        "syntax": {
+          "attribute": {
+            "color": "#00d4ff"
+          },
+          "boolean": {
+            "color": "#a78bfa"
+          },
+          "comment": {
+            "color": "#5a5d8a"
+          },
+          "comment.doc": {
+            "color": "#5a5d8a"
+          },
+          "constant": {
+            "color": "#7ce38b"
+          },
+          "constructor": {
+            "color": "#00d4ff"
+          },
+          "emphasis": {
+            "color": "#00d4ff",
+            "font_style": "italic"
+          },
+          "emphasis.strong": {
+            "color": "#ffd866",
+            "font_weight": 700
+          },
+          "function": {
+            "color": "#ffd866"
+          },
+          "function.builtin": {
+            "color": "#ffd866"
+          },
+          "function.definition": {
+            "color": "#ffd866"
+          },
+          "keyword": {
+            "color": "#a78bfa"
+          },
+          "keyword.control": {
+            "color": "#a78bfa"
+          },
+          "link_text": {
+            "color": "#7aa2f7"
+          },
+          "link_uri": {
+            "color": "#7aa2f7"
+          },
+          "number": {
+            "color": "#7ce38b"
+          },
+          "punctuation": {
+            "color": "#a9b1d6cc"
+          },
+          "string": {
+            "color": "#7aa2f7"
+          },
+          "string.escape": {
+            "color": "#00d4ff"
+          },
+          "string.regex": {
+            "color": "#00d4ff"
+          },
+          "tag": {
+            "color": "#a78bfa"
+          },
+          "text.literal": {
+            "color": "#7ce38b"
+          },
+          "title": {
+            "color": "#a78bfa"
+          },
+          "type": {
+            "color": "#00d4ff"
+          },
+          "variable": {
+            "color": "#7ce38b"
+          },
+          "variable.special": {
+            "color": "#a78bfa"
+          }
+        },
+        "background.appearance": "blurred"
+      }
+    },
+    {
       "name": "Tokyo Nebula Aurora",
       "appearance": "dark",
       "style": {
