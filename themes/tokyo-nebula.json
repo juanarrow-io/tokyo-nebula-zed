@@ -279,7 +279,7 @@
       "name": "Tokyo Nebula Andromeda Frosted",
       "appearance": "dark",
       "style": {
-        "background": "#15161fcc",
+        "background": "#15161f00",
         "foreground": "#787c99",
         "border": "#0a0c12",
         "border.variant": "#0a0c12",
