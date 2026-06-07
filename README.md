@@ -1,6 +1,6 @@
 # Tokyo Nebula for Zed
 
-A five-variant dark theme family for Zed: Andromeda, Aurora, Eclipse, Solstice, Polaris.
+A six-variant dark theme family for Zed: Andromeda, Andromeda Frosted, Aurora, Eclipse, Solstice, Polaris.
 
 The source themes and build pipeline live in
 [**juanarrow-io/tokyo-nebula**](https://github.com/juanarrow-io/tokyo-nebula).
@@ -10,6 +10,7 @@ is generated from the VS Code source themes in the main repo.
 ## Variants
 
 - Tokyo Nebula Andromeda — violet signature
+- Tokyo Nebula Andromeda Frosted — Andromeda with native window blur (frosted chrome, near-solid editor)
 - Tokyo Nebula Aurora — green signature, italic accents
 - Tokyo Nebula Eclipse — cyan signature, deeper background
 - Tokyo Nebula Solstice — yellow signature, warm background
